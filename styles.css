@@ -3,16 +3,9 @@ html {
   font-family: 'Open Sans', sans-serif;
 }
 
-
-h1 {
-  font-size: 60px;
-  text-align: center;
-}
-
 img {
   display: block;
   margin: 0 auto;
 }
-<style>
-		body {background-color: black; color: white;}
+<style>body {background-color: black; color: white;}
 	</style>
