@@ -2,15 +2,6 @@ p.double {border-style: double;}
 table {
   width: 100%;
 }
-div {
-  width: 100px;
-  height: 100px;
-  position: relative;
-  background-color: red;
-  animation-name: example;
-  animation-duration: 4s;
-  animation-direction: reverse;
-}
 video {
   width: 100%;
   height: auto;
