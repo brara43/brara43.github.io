@@ -9,4 +9,6 @@ video {
 img {
   border-radius: 50%;
 }
-<style>body {background-color:lightblue;color:black;}</style>
+<style>body {font-family: Georgia, "Times New Roman",
+          Times, serif;background-color:lightblue;color:black;}</style>
+
