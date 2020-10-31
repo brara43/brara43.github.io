@@ -11,24 +11,3 @@ img {
 }
 <style>body {font-family: Georgia, "Times New Roman",
           Times, serif;background-color:lightblue;color:black;}</style>
-<style>
-.animatedBox {
-  width: 300px;
-  height: 200px;
-  text-align: center;
-  font: 24px/200px sans-serif;
-  color: white;
-  background-color: red;
-  animation: myAnimation 12s ease 1s 1 forwards;
-}
-
-@keyframes myAnimation {
-  33% {
-    background-color: lightblue;
-  }
-  66% {
-    background-color:grey;
-  }
-}
-</style>
-
